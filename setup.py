@@ -9,8 +9,8 @@ setup(
     ],
     author='Mikołaj Badyl',
     author_email='mikolajbadyl0@gmail.com',
-    description='',
+    description='Widget for PySide6 to display OpenStreetMap',
     license='MIT',
-    keywords='przykład setup.py',
-    url='http://adres.twojej.biblioteki'
+    keywords='osm openstreetmap gui',
+    url='https://github.com/hawier-dev/pyosmgui'
 )
